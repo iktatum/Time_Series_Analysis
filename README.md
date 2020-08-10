@@ -12,3 +12,6 @@
 
 ### Based on the model evaluation, would you feel confident in using these models for trading?
 - Based on the model evaluation, I would not suggest using this model to forecast the yen prices. The AIC and BIC measures are very high and the p values ion the ARIMA and GARCH models do not suggest that the models are reliable.
+
+### Regression Analysis
+- The in sample MSE was a little higher than the out of sample MSE, which indicates that that there is less error (or variance) in the predicted versus the actual values. The model onl;y slightly loses reliability across the data sets.
